@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shriya Chandan
-- 👀 I’m interested in React and Python
+- 👀 I’m interested in React and flutter
 - 🌱 I’m currently Hustling
 - 💞️ I’m looking to collaborate on Open Source Project
 
