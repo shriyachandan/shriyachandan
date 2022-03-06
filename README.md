@@ -1,6 +1,6 @@
 -  ### Hola, I'm Shriya Chandan! 👋
- ### I am a Information Technology Student persuing B. Tech from Techno Main SaltLake.
-### I started programming when I was in 1st year of college and fall in love with it. I wish to work in a good product based company.My intrest lies in Competitive Programming and a Web Development.I want to explore many other technologies.
+  I am a Information Technology Student persuing B. Tech from Techno Main SaltLake.
+ - I started programming when I was in 1st year of college and fall in love with it. I wish to work in a good product based company.My intrest lies in Competitive Programming and a Web Development.I want to explore many other technologies.
 
  ### Talking about Personal Stuffs:
 - 🔭 I’m currently working on web devlopment.
