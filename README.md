@@ -10,3 +10,14 @@
 - 📫 How to reach me: chandanshriya7@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
+[![GitHub shriyachandan](https://img.shields.io/github/followers/shriyachandan?label=follow&style=social)](https://github.com/shriyachandan)
+
+
+<a href="https://github.com/shriyachandan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyachandan&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/shriyachandan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyachandan&show_icons=true&theme=light&line_height=27" alt="Shriya's github stats"/>
+</a>
