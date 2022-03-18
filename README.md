@@ -2,6 +2,8 @@
   I am a Information Technology Student persuing B. Tech from Techno Main SaltLake.
  - I started programming when I was in 1st year of college and fall in love with it. I wish to work in a good product based company.My intrest lies in Competitive Programming and a Web Development.I want to explore many other technologies.
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+
  ### Talking about Personal Stuffs:
 - 🔭 I’m currently working on web devlopment.
 - 🌱 I’m currently learning more about Data structures and Algorithms.
@@ -10,6 +12,8 @@
 - 📫 How to reach me: chandanshriya7@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
+
 
 [![GitHub shriyachandan](https://img.shields.io/github/followers/shriyachandan?label=follow&style=social)](https://github.com/shriyachandan)
 
